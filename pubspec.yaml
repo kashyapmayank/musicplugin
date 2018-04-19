@@ -1,8 +1,8 @@
 name: musicplugin
 description: A plugin for playing music
 version: 0.0.1
-author:
-homepage:
+author: Sahdeep Singh <sahdeepsingh.com>
+homepage: https://github.com/iamSahdeep/musicplugin
 
 dependencies:
   flutter:
@@ -16,6 +16,11 @@ flutter:
   plugin:
     androidPackage: com.sahdeepsingh.musicplugin
     pluginClass: MusicpluginPlugin
+
+
+environment:
+    sdk: ">=1.8.0 <2.0.0"
+
 
   # To add assets to your plugin package, add an assets section, like this:
   # assets:
