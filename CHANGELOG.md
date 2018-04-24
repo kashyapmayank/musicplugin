@@ -1,3 +1,4 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - 20/4/2018
 
-* TODO: Describe initial release.
+* just an initial release with basic functionality
+* Fetching All Songs
