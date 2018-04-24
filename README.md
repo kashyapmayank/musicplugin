@@ -1,4 +1,6 @@
-# musicplugin
+# musicplugin 
+[![pub package](https://img.shields.io/pub/v/musicplugin.svg)](https://pub.dartlang.org/packages/musicplugin)
+
 
 A plugin for playing music
 
